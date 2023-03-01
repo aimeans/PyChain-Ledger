@@ -1,4 +1,4 @@
-# Challenge 18 PyChain Ledger
+# PyChain Ledger
 
 ## Introduction
 Build a blockchain ledger using Pychain, Streamlit, and Hashlib.
